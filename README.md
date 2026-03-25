@@ -22,10 +22,13 @@ This project demonstrates how to work with external APIs, handle JSON data, and 
    git clone https://github.com/yourusername/python-weather-app.git
 
 2. Navigate into the project folder:
+   ```bash
    cd python-weather-app
 
 3. Install dependencies:
+   ```bash
    pip install requests
 
 4. Run the app:
+   ```bash
    python weather.py
