@@ -31,4 +31,4 @@ This project demonstrates how to work with external APIs, handle JSON data, and 
 
 4. Run the app:
    ```bash
-   python weather.py
+   python main.py
